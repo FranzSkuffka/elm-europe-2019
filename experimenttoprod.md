@@ -40,8 +40,10 @@ Elm as learning tool - funnel to haskell backend
 - gc overload = algorithm too complex
 - lack of components - filterable tabs for example
 - documentation between 0.18 and 0.19
-- time travel debugger is not too got
+- time travel debugger is bad
 - package manager
+- overload of messages and data
+  - ui actions are not interesting to business
 
 # Recrutigin
 Manager: can u find elm devs
