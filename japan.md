@@ -30,6 +30,11 @@ elm is guiding where to put what logic rather than in vuejs for example
 review importance
 Model > Msg > View
 
+advantages
+- cultivate skills
+- reduce communication effort
+- raises minimum code quality
+
 - many team members with JS experience
 - everything elm from scratch
-- 
+
