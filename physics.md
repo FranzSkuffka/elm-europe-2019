@@ -1,0 +1,3 @@
+- implementation ported from cannon.js
+- solid performance
+- 
